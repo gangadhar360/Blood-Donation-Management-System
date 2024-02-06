@@ -34,6 +34,6 @@ Blood Bank Donation System is a php based web project with both admin and user l
      
 # Admin Panel
    Open any browser and type http://localhost/BDMS/admin/login.php to open Admin Login Panel.
-         Enter Below Credentials to login to the Admin Panel.<br>
+        <br> Enter Below Credentials to login to the Admin Panel.<br>
                <b> Username = </b> gangadhar_360m<br>
                <b>Password = </b> 4310
